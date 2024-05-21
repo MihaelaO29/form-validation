@@ -55,7 +55,7 @@
     height: 120px;
     width: 100%;
     display: flex;
-    align-items: start;
+    align-items: flex-start;
     justify-content: center;
     margin-top: 20px;
 }
